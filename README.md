@@ -132,10 +132,11 @@ plt.show()
 
 ## 📊 Results
 
-- **Mean Absolute Error (MAE):** ~X.XX  
-- **Mean Squared Error (MSE):** ~X.XX  
-- **R² Score:** ~X.XX  
+📊 Results & Visualizations
 
+- Exploratory Data Analysis (Pairplot)
+- Correlation Heatmap
+- Prediction vs Actual AQI
 📈 Example plot:  
 ![Prediction vs Actual](./screenshots/output_plot.png)
 
@@ -168,4 +169,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## ✉️ Contact
 
-Maintainer: Your Name — [email@example.com](mailto:email@example.com)
+Maintainer: Your Name — [sandeepprajapati1202@gmail.com](mailto:sandeepprajapati1202@gmail.com)
