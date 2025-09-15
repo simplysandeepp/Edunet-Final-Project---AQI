@@ -130,15 +130,16 @@ plt.show()
 
 ---
 
-## 📊 Results
+## 📊 Results & Visualizations
 
-📊 Results & Visualizations
+- **Exploratory Data Analysis (Pairplot)**  
+  ![Pairplot](./screenshot/pairplot.png)
 
-- Exploratory Data Analysis (Pairplot)
-- Correlation Heatmap
-- Prediction vs Actual AQI
-📈 Example plot:  
-![Prediction vs Actual](./screenshots/output_plot.png)
+- **Correlation Heatmap**  
+  ![Heatmap](./screenshot/heatmap.png)
+
+- **Prediction vs Actual AQI**  
+  ![Prediction vs Actual](./screenshot/output_plot.png)
 
 ---
 
